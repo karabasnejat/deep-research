@@ -4,4 +4,13 @@ openai
 chromadb
 faiss-cpu
 python-dotenv
-requests 
+requests
+numpy
+pandas
+asyncio
+aiohttp
+beautifulsoup4
+lxml
+xmltodict
+sentence-transformers
+scikit-learn 
