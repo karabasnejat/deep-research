@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+chromadb
+faiss-cpu
+python-dotenv
+requests 
